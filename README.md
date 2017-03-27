@@ -1,2 +1,6 @@
 # Hello-World
-Learning how to use Github
+
+Hi,Humans
+
+Milk here, I'm Thirsity right now. 
+NEED some H2O.
